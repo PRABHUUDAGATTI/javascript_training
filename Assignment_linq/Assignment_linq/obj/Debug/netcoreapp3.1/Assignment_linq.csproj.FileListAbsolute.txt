@@ -1,0 +1,14 @@
+D:\c#\Assignment_linq\Assignment_linq\bin\Debug\netcoreapp3.1\Assignment_linq.exe
+D:\c#\Assignment_linq\Assignment_linq\bin\Debug\netcoreapp3.1\Assignment_linq.deps.json
+D:\c#\Assignment_linq\Assignment_linq\bin\Debug\netcoreapp3.1\Assignment_linq.runtimeconfig.json
+D:\c#\Assignment_linq\Assignment_linq\bin\Debug\netcoreapp3.1\Assignment_linq.runtimeconfig.dev.json
+D:\c#\Assignment_linq\Assignment_linq\bin\Debug\netcoreapp3.1\Assignment_linq.dll
+D:\c#\Assignment_linq\Assignment_linq\bin\Debug\netcoreapp3.1\Assignment_linq.pdb
+D:\c#\Assignment_linq\Assignment_linq\obj\Debug\netcoreapp3.1\Assignment_linq.csproj.AssemblyReference.cache
+D:\c#\Assignment_linq\Assignment_linq\obj\Debug\netcoreapp3.1\Assignment_linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Assignment_linq\Assignment_linq\obj\Debug\netcoreapp3.1\Assignment_linq.AssemblyInfoInputs.cache
+D:\c#\Assignment_linq\Assignment_linq\obj\Debug\netcoreapp3.1\Assignment_linq.AssemblyInfo.cs
+D:\c#\Assignment_linq\Assignment_linq\obj\Debug\netcoreapp3.1\Assignment_linq.csproj.CoreCompileInputs.cache
+D:\c#\Assignment_linq\Assignment_linq\obj\Debug\netcoreapp3.1\Assignment_linq.dll
+D:\c#\Assignment_linq\Assignment_linq\obj\Debug\netcoreapp3.1\Assignment_linq.pdb
+D:\c#\Assignment_linq\Assignment_linq\obj\Debug\netcoreapp3.1\Assignment_linq.genruntimeconfig.cache
